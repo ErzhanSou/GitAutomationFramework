@@ -9,6 +9,14 @@ public class HomeTests {
     }
 
     @Test
+    public void homeTest5(){
+        System.out.println("This is Emir's test");}
+
+    public void homeTest4(){
+        int a = 10;
+        int b = 10;
+        System.out.println(a+b);
+
 
     public void home9() {
         System.out.println("Home Page2");
