@@ -15,7 +15,7 @@ public class HomeTests {
 
     @Test
     public void homeTest2() {
-        System.out.println("Test 2");
+        System.out.println("This is Syimyk's Test");
     }
 
     @Test
