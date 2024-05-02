@@ -6,5 +6,6 @@ public class CheckoutTests {
     @Test
     public void checkoutTest(){
         System.out.println("checking out");
+        System.out.println("any new changes");
     }
 }
