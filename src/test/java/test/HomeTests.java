@@ -9,7 +9,15 @@ public class HomeTests {
     }
 
     @Test
-    public void homeTestSeven(){
+    public void homeTestSeven() {
         System.out.println("this is Erz test");
     }
+
+    @Test
+    public void homeTest4(){
+        int a = 10;
+        int b = 10;
+        System.out.println(a+b);
+    }
 }
+
