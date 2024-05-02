@@ -14,4 +14,10 @@ public class HomeTests {
     }
 
 
+    public void homeTest4(){
+        int a = 10;
+        int b = 10;
+        System.out.println(a+b);
+
+    }
 }
