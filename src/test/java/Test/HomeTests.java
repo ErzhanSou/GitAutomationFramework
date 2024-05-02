@@ -9,7 +9,6 @@ public class HomeTests {
     }
 
     @Test
-
     public void homeTest1(){
         System.out.println("Nurzadas test");
     }
