@@ -7,4 +7,8 @@ public class HomeTests {
     public void home(){
         System.out.println("HomePage");
     }
+    @Test
+    public void home9(){
+        System.out.println("Home Page2");
+    }
 }
