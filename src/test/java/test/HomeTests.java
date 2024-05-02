@@ -9,6 +9,12 @@ public class HomeTests {
     }
 
     @Test
+
+    public void homeTests6() {
+        System.out.println("This is Elaman's test");
+    }
+}
+
     public void homeTest5(){
         System.out.println("This is Emir's test");}
 
