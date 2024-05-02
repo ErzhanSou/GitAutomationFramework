@@ -7,4 +7,9 @@ public class HomeTests {
     public void home(){
         System.out.println("HomePage");
     }
+
+    @Test
+    public void homeTestSeven(){
+        System.out.println("this is Erz test");
+    }
 }
